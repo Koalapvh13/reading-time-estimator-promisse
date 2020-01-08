@@ -8,7 +8,6 @@
  */
 const ReadingTime = (text, wordspminute) => {
     let wpm = wordspminute || 160;
-    console.log(wpm);
 
     return new Promise((resolve, reject) => {
         if (text) {
