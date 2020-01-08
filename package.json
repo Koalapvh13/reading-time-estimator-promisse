@@ -1,0 +1,25 @@
+{
+  "name": "reading-time-estimator-promisse",
+  "version": "1.0.0",
+  "description": "Package to estimate the reading time from a text.",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Koalapvh13/reading-time-estimator-promisse.git"
+  },
+  "keywords": [
+    "medium-like",
+    "reading-estimator",
+    "time-estimator",
+    "promisses"
+  ],
+  "author": "Matheus Dias Vieira <matheuspvh13@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Koalapvh13/reading-time-estimator-promisse/issues"
+  },
+  "homepage": "https://github.com/Koalapvh13/reading-time-estimator-promisse#readme"
+}
